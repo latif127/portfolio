@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/latif127/portfolio/static/css/main.40f0ca43.chunk.css",
+    "main.js": "/latif127/portfolio/static/js/main.dc387e1d.chunk.js",
+    "main.js.map": "/latif127/portfolio/static/js/main.dc387e1d.chunk.js.map",
+    "runtime-main.js": "/latif127/portfolio/static/js/runtime-main.f79945c8.js",
+    "runtime-main.js.map": "/latif127/portfolio/static/js/runtime-main.f79945c8.js.map",
+    "static/js/2.48a54330.chunk.js": "/latif127/portfolio/static/js/2.48a54330.chunk.js",
+    "static/js/2.48a54330.chunk.js.map": "/latif127/portfolio/static/js/2.48a54330.chunk.js.map",
+    "static/js/3.aaafd304.chunk.js": "/latif127/portfolio/static/js/3.aaafd304.chunk.js",
+    "static/js/3.aaafd304.chunk.js.map": "/latif127/portfolio/static/js/3.aaafd304.chunk.js.map",
+    "index.html": "/latif127/portfolio/index.html",
+    "static/css/main.40f0ca43.chunk.css.map": "/latif127/portfolio/static/css/main.40f0ca43.chunk.css.map",
+    "static/js/2.48a54330.chunk.js.LICENSE.txt": "/latif127/portfolio/static/js/2.48a54330.chunk.js.LICENSE.txt",
+    "static/media/md_latif.b589a508.png": "/latif127/portfolio/static/media/md_latif.b589a508.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f79945c8.js",
+    "static/js/2.48a54330.chunk.js",
+    "static/css/main.40f0ca43.chunk.css",
+    "static/js/main.dc387e1d.chunk.js"
+  ]
+}
