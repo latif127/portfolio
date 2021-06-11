@@ -1,12 +1,16 @@
 .App {
   text-align: center;
 }
-
+body{
+  background-color: aliceblue;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
+.profile-image{
+  width:200px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
